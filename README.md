@@ -1,4 +1,4 @@
-# f1 challenge
+# sample-js
 Below are my solutions - javascript.
 
 # Running js test suite
